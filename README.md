@@ -19,6 +19,5 @@ After Installing this tool, use only this command: <br>
 cd SuperBoomber <br>
 python sms.py <br> <br> <br>
 
-
 <h2>Username and Password:</h2>
-For Username and Password join our <a href="https://t.me/superbipap" style="text-decoration:none"> Telegram Channel </a>.
+For Username and Password join our <a href="https://t.me/superbipap" style="text-decoration:none"> Telegram Channel</a>.
